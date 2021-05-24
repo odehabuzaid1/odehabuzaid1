@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @odehabuzaid1
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Software Development in ASAC
